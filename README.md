@@ -42,6 +42,10 @@ All of this was done using Keras ImageDataGenerator class
 ![Screenshot 2023-02-14 123702](https://user-images.githubusercontent.com/39447236/218711311-1e6fafce-d9c5-48b3-8a28-043b256eb0a4.png)
 
 ## Realtime Implementation
-
-
-
+1- Read frames from camera using OpenCV  
+2- Extract faces using Haar Cascade  
+3- Crop the faces from the frames  
+4- Preprocess the faces to be suitable to be fed into the model  
+5- Feed the faces to the model to predict whether it's with mask or without  
+6- Show the output of predictions on the frames  
+NOTE : These steps was done on 1 frame every 10 frames for faster processing
