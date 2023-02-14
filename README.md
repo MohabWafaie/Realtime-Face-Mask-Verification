@@ -29,7 +29,7 @@ All of this was done using Keras ImageDataGenerator class
 1- The model contains 4 CNN layers with number of filter ranging from 16 in the first layer to 64 in the last layer all with kernel size (3, 3) and Relu activation function  
 2- Each layer is followed by a (2, 2) Max Pooling layer and a 20% Dropout layer   
 3- Then followed by a Flattening layer  
-4- Then a Dense layer of 64 neurons and Relu activation function  
+4- Then a Dense layer of 128 neurons and Relu activation function  
 5- A 20% Dropout layer  
 6- An Output layer with Sigmoid activation fuction (since binary classification)  
   
