@@ -48,4 +48,4 @@ All of this was done using Keras ImageDataGenerator class
 4- Preprocess the faces to be suitable to be fed into the model  
 5- Feed the faces to the model to predict whether it's with mask or without  
 6- Show the output of predictions on the frames  
-NOTE : These steps was done on 1 frame every 10 frames for faster processing
+NOTE : These steps was done on 1 frame every 5 frames for faster processing
