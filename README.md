@@ -33,13 +33,13 @@ All of this was done using Keras ImageDataGenerator class
 5- A 20% Dropout layer  
 6- An Output layer with Sigmoid activation fuction (since binary classification)  
   
-![Screenshot 2023-02-14 121527](https://user-images.githubusercontent.com/39447236/218708040-eb54b410-15f6-450a-9c2f-c578d5183bee.png)  
-  
-![multilayer_perceptron_graph](https://user-images.githubusercontent.com/39447236/218708082-5efcfbde-b241-4d88-a52d-e0e6decbe7f3.png)  
+![Screenshot 2023-02-14 121527](https://user-images.githubusercontent.com/39447236/218708040-eb54b410-15f6-450a-9c2f-c578d5183bee.png)   
 
 ## Model Compilation and Training
 1- The model was compiled with Adam optimizer and Binary Crossentropy loss function  
-2- The model was fit to the training data  
+2- The model was fit to the training data and achieved 99% accuracy on Validation data  
+3- The model was evaluated on Testing data and achieved 98.3%    
+![Screenshot 2023-02-14 123702](https://user-images.githubusercontent.com/39447236/218711311-1e6fafce-d9c5-48b3-8a28-043b256eb0a4.png)
 
 
 
