@@ -1,4 +1,4 @@
-# Realtime-Face-Mask-Verification
+# Realtime Face Mask Verification
 Realtime Face Mask verification using Deep Convolutional Neural Networks and Haar Cascade
 ## About The Dataset
 ![dataset-cover](https://user-images.githubusercontent.com/39447236/218705098-1b8e247b-dfde-48cb-b04c-5a75f65f8010.png)
