@@ -31,7 +31,7 @@ All of this was done using Keras ImageDataGenerator class
 3- Then followed by a Flattening layer  
 4- Then a Dense layer of 128 neurons and Relu activation function  
 5- A 20% Dropout layer  
-6- An Output layer with Sigmoid activation fuction (since binary classification)  
+6- An Output layer with Sigmoid activation function (since binary classification)  
   
 ![Screenshot 2023-02-14 121527](https://user-images.githubusercontent.com/39447236/218708040-eb54b410-15f6-450a-9c2f-c578d5183bee.png)   
 
